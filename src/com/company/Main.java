@@ -22,7 +22,7 @@ public class Main {
                 barcelona.print();
                 return barcelona;
 
-            case "Psg":
+            case "atleticomadrid":
                 AtleticoMdrid atleticoMdrid= new AtleticoMdrid(8,"Griezman","ATM");
                 atleticoMdrid.print();
                 return atleticoMdrid;
